@@ -8,4 +8,5 @@ MODE: ONLINE
 LANGUAGES : HTML,CSS,JAVASCRIPT
 
 OFFER LETTER:-
-https://www.linkedin.com/posts/siddharthdobhal_prodigyinfotech-activity-7264076255124156417-u29n?utm_source=share&utm_medium=member_desktop
+![image](https://github.com/user-attachments/assets/5ce54ce3-d0c0-4c10-8b79-04d21128651e)
+
