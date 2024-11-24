@@ -3,6 +3,7 @@ TASK 1 : RESPONSIVE LANDING PAGE
 PAGE NAME : Sidline
 
 WEBSITE: [https://sidline.netlify.app/](https://sidline.netlify.app/) 
+
 THEME : Clothing Website
 
 DESCRIPTION:-
