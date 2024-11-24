@@ -23,20 +23,20 @@ PROGRAMMING LANGUAGE: HTML, CSS, JAVACRIPT
 
 SCREENSHOT OF WEBSITE
 
-![01] ![image](https://github.com/user-attachments/assets/629e494a-8d91-48ae-a19b-c10b9e507d50)
+[01] ![image](https://github.com/user-attachments/assets/629e494a-8d91-48ae-a19b-c10b9e507d50)
 
 
-![02] ![image](https://github.com/user-attachments/assets/79a4d491-db85-4311-be70-dcfbb378fd18)
+[02] ![image](https://github.com/user-attachments/assets/79a4d491-db85-4311-be70-dcfbb378fd18)
 
 
-![03] ![image](https://github.com/user-attachments/assets/711688f9-7ca7-4f79-907f-3713a0cd0ca9)
+[03] ![image](https://github.com/user-attachments/assets/711688f9-7ca7-4f79-907f-3713a0cd0ca9)
 
 
-![04] ![image](https://github.com/user-attachments/assets/f7d92cdb-f840-4dfc-902f-227199e40f0e)
+[04] ![image](https://github.com/user-attachments/assets/f7d92cdb-f840-4dfc-902f-227199e40f0e)
 
 
-![05] ![image](https://github.com/user-attachments/assets/82a2df6d-6b0c-466f-8fb4-6dd079eea7d0)
+[05] ![image](https://github.com/user-attachments/assets/82a2df6d-6b0c-466f-8fb4-6dd079eea7d0)
 
 
-![06]
+
 
