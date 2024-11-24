@@ -23,7 +23,7 @@ PROGRAMMING LANGUAGE: HTML, CSS, JAVACRIPT
 
 SCREENSHOT OF WEBSITE
 
-![01](https://github.com/Arvindvadivelu/Prodigy-Infotech/assets/129649393/7d94aa15-b7f8-4422-be30-2540b0d80f16)
+![01](https://github.com/siddharthdobhal/PRODIGY/blob/882d0d9842e67de565013f32f467aa53f5d5a925/Prodigy-Infotech-Internship/PRODIGY_WD_01/assets/logo.png))
 
 ![02](https://github.com/Arvindvadivelu/Prodigy-Infotech/assets/129649393/e1f8f469-93aa-4632-a903-85ffea8e584d)
 
