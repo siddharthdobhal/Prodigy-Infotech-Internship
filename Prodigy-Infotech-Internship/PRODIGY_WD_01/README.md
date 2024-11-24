@@ -23,15 +23,20 @@ PROGRAMMING LANGUAGE: HTML, CSS, JAVACRIPT
 
 SCREENSHOT OF WEBSITE
 
-![01](https://github.com/siddharthdobhal/PRODIGY/blob/882d0d9842e67de565013f32f467aa53f5d5a925/Prodigy-Infotech-Internship/PRODIGY_WD_01/assets/logo.png))
+![01] ![image](https://github.com/user-attachments/assets/629e494a-8d91-48ae-a19b-c10b9e507d50)
 
-![02](https://github.com/Arvindvadivelu/Prodigy-Infotech/assets/129649393/e1f8f469-93aa-4632-a903-85ffea8e584d)
 
-![03](https://github.com/Arvindvadivelu/Prodigy-Infotech/assets/129649393/92e2b7af-8e4e-46ac-9009-53ffeb6c1aa3)
+![02] ![image](https://github.com/user-attachments/assets/79a4d491-db85-4311-be70-dcfbb378fd18)
 
-![04](https://github.com/Arvindvadivelu/Prodigy-Infotech/assets/129649393/121cd3d8-8b26-4fb1-b70a-fe5d7fb22da9)
 
-![05](https://github.com/Arvindvadivelu/Prodigy-Infotech/assets/129649393/5e3b9148-4333-4fc0-a9f8-d31cabcac116)
+![03] ![image](https://github.com/user-attachments/assets/711688f9-7ca7-4f79-907f-3713a0cd0ca9)
 
-![06](https://github.com/Arvindvadivelu/Prodigy-Infotech/assets/129649393/6cea4b58-1219-40c8-b600-ac489797678a)
+
+![04] ![image](https://github.com/user-attachments/assets/f7d92cdb-f840-4dfc-902f-227199e40f0e)
+
+
+![05] ![image](https://github.com/user-attachments/assets/82a2df6d-6b0c-466f-8fb4-6dd079eea7d0)
+
+
+![06]
 
