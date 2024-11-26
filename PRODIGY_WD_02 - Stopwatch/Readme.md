@@ -20,8 +20,8 @@ PROGRAMMING LANGUAGE: HTML, CSS, JAVACRIPT
 
 SCREENSHOT OF WEBSITE
 
-[01]  ![image](https://github.com/user-attachments/assets/7cf3b138-180a-4b16-b493-24a0ec88ecca)
-[02 ] ![image](https://github.com/user-attachments/assets/8d84b7c4-789c-4409-84f2-3b76e650d052)
+  ![image](https://github.com/user-attachments/assets/7cf3b138-180a-4b16-b493-24a0ec88ecca)
+  ![image](https://github.com/user-attachments/assets/8d84b7c4-789c-4409-84f2-3b76e650d052)
 
 
 
