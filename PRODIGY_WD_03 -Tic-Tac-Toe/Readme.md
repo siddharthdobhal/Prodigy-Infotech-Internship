@@ -19,3 +19,9 @@ Provided an opportunity to showcase my problem-solving skills and attention to d
 PROGRAMMING LANGUAGE: HTML, CSS, JAVACRIPT
 
 SCREENSHOT OF WEBSITE:-
+
+![image](https://github.com/user-attachments/assets/69c53b08-b4be-42cb-9753-5982471d5d30)
+![image](https://github.com/user-attachments/assets/79b4bdac-09d7-4f6c-a7ad-cd47acea777c)
+![image](https://github.com/user-attachments/assets/1399d1ee-9f1f-41b8-b09e-3ad0cafe8bf6)
+
+
